@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISP201Server", "ISP201Server\ISP201Server.csproj", "{2CE5090E-F8EC-41A5-8748-FCCE08489F68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISP201Client", "ISP201Client\ISP201Client.csproj", "{F8386A3A-0F2B-4470-894A-B8AB0D68AF68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CE5090E-F8EC-41A5-8748-FCCE08489F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE5090E-F8EC-41A5-8748-FCCE08489F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE5090E-F8EC-41A5-8748-FCCE08489F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE5090E-F8EC-41A5-8748-FCCE08489F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8386A3A-0F2B-4470-894A-B8AB0D68AF68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8386A3A-0F2B-4470-894A-B8AB0D68AF68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8386A3A-0F2B-4470-894A-B8AB0D68AF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8386A3A-0F2B-4470-894A-B8AB0D68AF68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ED9275F-7DFE-4E50-AF79-D2080DBAC448}
+	EndGlobalSection
+EndGlobal

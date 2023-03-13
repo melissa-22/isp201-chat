@@ -1,0 +1,17 @@
+C:\Users\Melis\source\repos\ISP201Chat\ISP201Server\obj\Debug\net6.0-windows\ISP201Server.csproj.AssemblyReference.cache
+C:\Users\Melis\source\repos\ISP201Chat\ISP201Server\obj\Debug\net6.0-windows\ISP201Server.Form1.resources
+C:\Users\Melis\source\repos\ISP201Chat\ISP201Server\obj\Debug\net6.0-windows\ISP201Server.csproj.GenerateResource.cache
+C:\Users\Melis\source\repos\ISP201Chat\ISP201Server\obj\Debug\net6.0-windows\ISP201Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melis\source\repos\ISP201Chat\ISP201Server\obj\Debug\net6.0-windows\ISP201Server.AssemblyInfoInputs.cache
+C:\Users\Melis\source\repos\ISP201Chat\ISP201Server\obj\Debug\net6.0-windows\ISP201Server.AssemblyInfo.cs
+C:\Users\Melis\source\repos\ISP201Chat\ISP201Server\obj\Debug\net6.0-windows\ISP201Server.csproj.CoreCompileInputs.cache
+C:\Users\Melis\source\repos\ISP201Chat\ISP201Server\bin\Debug\net6.0-windows\ISP201Server.exe
+C:\Users\Melis\source\repos\ISP201Chat\ISP201Server\bin\Debug\net6.0-windows\ISP201Server.deps.json
+C:\Users\Melis\source\repos\ISP201Chat\ISP201Server\bin\Debug\net6.0-windows\ISP201Server.runtimeconfig.json
+C:\Users\Melis\source\repos\ISP201Chat\ISP201Server\bin\Debug\net6.0-windows\ISP201Server.dll
+C:\Users\Melis\source\repos\ISP201Chat\ISP201Server\bin\Debug\net6.0-windows\ISP201Server.pdb
+C:\Users\Melis\source\repos\ISP201Chat\ISP201Server\obj\Debug\net6.0-windows\ISP201Server.dll
+C:\Users\Melis\source\repos\ISP201Chat\ISP201Server\obj\Debug\net6.0-windows\refint\ISP201Server.dll
+C:\Users\Melis\source\repos\ISP201Chat\ISP201Server\obj\Debug\net6.0-windows\ISP201Server.pdb
+C:\Users\Melis\source\repos\ISP201Chat\ISP201Server\obj\Debug\net6.0-windows\ISP201Server.genruntimeconfig.cache
+C:\Users\Melis\source\repos\ISP201Chat\ISP201Server\obj\Debug\net6.0-windows\ref\ISP201Server.dll
